@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonReceiptConverter</string>
+    <string name="btn_read_json_file">Read JSON file</string>
+</resources>
